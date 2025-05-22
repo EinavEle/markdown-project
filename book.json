@@ -1,0 +1,17 @@
+{
+ "name": "CSS Positioning & the Box Model",
+ "children": [
+  {
+   "id": "518ebf8f-f28f-cc2b-56d6-6a7b0a56bbe6",
+   "title": "The Box Model",
+   "pageId": "1dfb2d5e-c33b-1b82-894b-e52ec0337bdb",
+   "type": "page"
+  },
+  {
+   "id": "d5f4a022-def8-c404-0f96-a3b2410fb277",
+   "title": "Comprehension Check",
+   "pageId": "f14708c4-0e85-95bf-e1b9-173b3c98224e",
+   "type": "page"
+  }
+ ]
+}
